@@ -10,12 +10,18 @@
   <repository name="Nagi-ovo/dsh-ads" branch="main" updated="2026-08-19T05:33:25Z" tags="plugin"/>
   <repository name="xiaobright/dsh-anchored-standard" branch="main" updated="2026-08-22T07:14:10Z" tags="invalid"/>
   <repository name="omdsh-dev/DSH-better-sidebar" branch="main" updated="2026-08-19T03:54:07Z" tags="plugin"/>
+  <repository name="whiteS18/dsh-image-generation" branch="main" updated="2026-10-08T11:45:44Z" tags="plugin"/>
+  <repository name="cyanfish-x/dsh-live2d-pets" branch="main" updated="2026-10-11T11:10:08Z" tags="plugin"/>
+  <repository name="bufan528/dsh-longterm-memory" branch="main" updated="2026-10-19T12:02:53Z" tags="plugin"/>
   <repository name="Leawind/dsh-minecraft-dev" branch="main" updated="2026-08-15T19:30:41Z" tags="skill"/>
   <repository name="oil-oil/dsh-oil-ui" branch="main" updated="2026-10-20T11:34:08Z" tags="plugin,skill"/>
   <repository name="whiteguo233/dsh-openbiliclaw" branch="main" updated="2026-08-23T08:33:26Z" tags="plugin,skill"/>
+  <repository name="A8Chann/dsh-pet-live2d" branch="main" updated="2026-10-19T10:08:11Z" tags="plugin,skill"/>
   <repository name="HuanLinOTO/dsh-plugin-anti-ads" branch="master" updated="2026-08-17T02:18:27Z" tags="plugin"/>
   <repository name="yjh051108/dsh-routing-suite" branch="main" updated="2026-08-22T09:05:29Z" tags="plugin,preset"/>
   <repository name="zhu1090093659/dsh-web-ui" branch="dev" updated="2026-08-22T09:02:17Z" tags="plugin,skill"/>
+  <repository name="Andersen216/dsh-whale-girl-live2d" branch="main" updated="2026-10-19T06:28:31Z" tags="plugin,skill"/>
+  <repository name="Sutera-Diffusus/dsh-whale-musume" branch="main" updated="2026-10-19T13:14:06Z" tags="plugin"/>
   <repository name="edison7009/EchoBird" branch="main" updated="2026-08-22T08:47:29Z" tags="invalid"/>
   <repository name="EverMind-AI/EverOS" branch="main" updated="2026-08-22T08:40:58Z" tags="plugin,skill"/>
   <repository name="Devin-AXIS/iPolloWork" branch="main" updated="2026-08-22T09:06:22Z" tags="plugin,skill"/>
